@@ -1,5 +1,5 @@
 # Map Path Planning:
-The path planning algorithms such as bfs and dijkstra for city maps and puzzles.
+The breadth-first search and dijkstra's algorithms for city maps and puzzles.
 
 # Setup:
 1) Put one of the map files into the place in where the source codes are.
