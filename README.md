@@ -8,5 +8,5 @@ The breadth-first search and dijkstra's algorithms for city maps and puzzles.
 
 # Screenshots:
 
-![alt text](https://github.com/emreOytun/MapPathPlanning/blob/master/Outputs/pisa_dijkstra.png.png) /b
+![alt text](https://github.com/emreOytun/MapPathPlanning/blob/master/Outputs/pisa_dijkstra.png.png)  
 ![alt text](https://github.com/emreOytun/MapPathPlanning/blob/master/Outputs/tokyo_dijkstra.png.png)
